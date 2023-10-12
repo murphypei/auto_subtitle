@@ -1,0 +1,5 @@
+torch
+googletrans==4.0.0rc1
+pyyaml
+openai-whisper
+ffmpeg-python
